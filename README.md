@@ -9,7 +9,7 @@
 
 ## Starting a repo from scratch
 
-Gitquick allows you to connect to a new remote repository simply by copy and pasting the github repository link from the github instructions
+Gitquick allows you to connect to a new remote repository simply by copy and pasting the github repository link from the github instructions.
 
 &darr;
 
@@ -17,4 +17,8 @@ Gitquick allows you to connect to a new remote repository simply by copy and pas
 
 ## Pushing to existing repo
 
+The real magic lies in being able to commit to your repoistory simply by inputing your commit message.
+
 ![](./assets/existingRepo.gif)
+
+
