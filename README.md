@@ -19,6 +19,8 @@ Gitquick allows you to connect to a new remote repository simply by copy and pas
 
 The real magic lies in being able to commit to your repoistory simply by inputing your commit message.
 
+&darr;
+
 ![](./assets/existingRepo.gif)
 
 
