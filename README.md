@@ -9,4 +9,8 @@
 
 ## Starting a repo from scratch
 
+Gitquick allows you to connect to a new remote repository simply by copy and pasting the github repository link from the github instructions
+
+&darr;
+
 ![](./assets/startRepo.gif)
