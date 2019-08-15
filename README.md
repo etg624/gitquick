@@ -10,3 +10,7 @@
 ## Starting a repo from scratch
 
 ![](./assets/startRepo.gif)
+
+## Pushing to existing repo
+
+![](./assets/existingRepo.gif)
