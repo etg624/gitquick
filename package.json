@@ -16,6 +16,6 @@
     "inquirer": "^6.5.0",
     "minimist": "^1.2.0",
     "ora": "^3.4.0",
-    "simple-git": "^1.124.0"
+    "simple-git": "^3.3.0"
   }
 }
